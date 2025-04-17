@@ -3,3 +3,4 @@ Gitの練習をしていきます
 変更内容
 複数変更
 git status
+git diff
